@@ -17,6 +17,7 @@ Data Visualization: Transforming raw data into compelling visual stories that dr
 Market Analysis: Conducting thorough market research to provide strategic business insights.
 Content Creation: Developing clear and engaging content to communicate data findings.
 Dashboarding: Designing user-friendly dashboards that facilitate real-time data monitoring and analysis.
-Throughout my career, I’ve been committed to continuous learning and sharing my knowledge with others. I believe in learning in public, which is why I regularly post about my experiences, projects, and the latest trends in data analytics here on LinkedIn.
+Throughout my career, I’ve been committed to continuous learning and sharing my knowledge with others. I believe in learning in public, which is why I regularly post about my experiences, projects, and the latest trends in data analytics here on LinkedIn(https://www.linkedin.com/in/darshana-pawar-2514041ab/)
 
 By following or connecting with me, you'll get insights into my journey, learn from my experiences, and stay updated on the newest developments in data analytics. Let's connect and drive innovation in data together! 🚀
+
